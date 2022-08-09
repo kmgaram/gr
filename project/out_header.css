@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none
+}
+
+.text-center {
+    width: 200px;
+}
+
+.text-center img {
+    width: 100%;
+}
+
+.mb-2 a {
+    text-decoration: none;
+}
+
+.nav_wrap {
+    display: flex;
+}
+
+.nav_wrap .d-flex {
+    position: absolute;
+    right: 5%;
+}
+
+#login {
+    padding-right: 5px;
+    margin: 7% -3% 0 5%;
+}
+
+#join {
+    margin: 7% -3% 0 5%;
+}
